@@ -1,0 +1,38 @@
+#
+#Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+
+tropic/*.o
+tropic/tropic
+tropic/.vscode
+tropic/test/*.o
+alaya/mktdata/dbases/bakbig.dat
+alaya/mktdata/dbases/bakbig.txt
+alaya/mktdata/dbases/baktest.dat
+alaya/mktdata/dbases/baktest.txt
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+.vscode/
+.idea/
+.ipynb_checkpoints/
+dash-sample-apps/
+.cache/
+.config/
+.java/
+.lesshst
+.local/
+.mozilla/
+
