@@ -6,7 +6,7 @@
 *.so
 *.dylib
 
-
+data/
 tropic/*.o
 tropic/tropic
 tropic/.vscode
